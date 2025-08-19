@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Aditya Kr Singh!<br><br>🎓 I'm currently a 2nd Year student passionate about Data Structures and Algorithms, Java Development, and Tech Innovation.<br><br>💻 I love solving problems on LeetCode, building projects, and exploring new technologies.<br><br>🌱 I'm learning about Algorithmic Trading, AI/ML applications, and clean coding practices.<br><br>📚 I enjoy participating in coding competitions, tech events, and open-source projects.<br><br>🚀 My goal is to continuously grow as a developer and build impactful solutions...
+Hi, I'm Aditya Kr Singh!<br><br>🎓 I'm currently a 3rd Year student passionate about Data Structures and Algorithms, Java Development, and Tech Innovation.<br><br>💻 I love solving problems on LeetCode, building projects, and exploring new technologies.<br><br>🌱 I'm learning about Algorithmic Trading, AI/ML applications, and clean coding practices.<br><br>📚 I enjoy participating in coding competitions, tech events, and open-source projects.<br><br>🚀 My goal is to continuously grow as a developer and build impactful solutions...
 
 
 ## 🌐 Socials:
